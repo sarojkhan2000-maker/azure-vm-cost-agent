@@ -1,0 +1,9 @@
+azure-identity
+azure-mgmt-compute
+azure-mgmt-monitor
+langchain
+langchain-openai
+python-dotenv
+fastapi
+uvicorn
+python-multipart
